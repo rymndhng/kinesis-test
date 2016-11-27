@@ -1,0 +1,5 @@
+* Transducible Kinesis Streams
+Remote Streams as Values.
+
+Kinesis provides a (mostly immutable) stream abstraction. This library wraps
+this process up as a lazy clojure sequence.

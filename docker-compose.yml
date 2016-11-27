@@ -1,0 +1,6 @@
+dev-kinesis:
+  image: dlsniper/kinesalite:1.11.4
+  expose:
+    - 4567
+  ports:
+    - 4567:4567
